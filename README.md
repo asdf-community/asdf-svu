@@ -1,6 +1,6 @@
 # asdf-svu
 
-[![Build Status](https://app.travis-ci.com/asdf-community/asdf-svu.svg?branch=master)](https://app.travis-ci.com/asdf-community/asdf-svu)
+[![Main workflow](https://github.com/asdf-community/asdf-svu/actions/workflows/workflow.yaml/badge.svg)](https://github.com/asdf-community/asdf-svu/actions/workflows/workflow.yaml)
 
 [SVU](https://github.com/caarlos0/svu) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
